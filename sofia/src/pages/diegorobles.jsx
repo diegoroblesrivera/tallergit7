@@ -7,7 +7,7 @@ function VistaSimple() {
       <h1>Hola, bienvenido a React</h1>
       <p>Esta es una vista sencilla basada en componentes.</p>
 
-    <h3>era una vez en un dia muy caluroso</h3>
+    <h3>era una vez en un dia muy caluroso y eso</h3>
 
 
 
