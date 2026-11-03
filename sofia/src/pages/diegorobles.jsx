@@ -34,7 +34,7 @@ function VistaSimple() {
 
     <h3>suspension permanente!!!!!!!</h3>
 
-
+    <h2>Probando mas codigo de loq uie debriasdflkjh sdlknh</h2>
 
     </div>
   );
