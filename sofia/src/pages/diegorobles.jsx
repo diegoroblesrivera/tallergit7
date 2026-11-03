@@ -17,12 +17,24 @@ function VistaSimple() {
 
 
 
-
+   
+   
+   
+   
+   
+   
+   
     <h3>joseph prestame 8 lukas porfa hermano te las devuelvo el viernes</h3>
 
 
 
       
+
+    <h3>era una vez en un dia muy caluroso</h3>
+
+
+
+
     </div>
   );
 }
