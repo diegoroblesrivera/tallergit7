@@ -18,7 +18,7 @@ function VistaSimple() {
 
 
 
-<h3>ok profe ! </h3>
+      <h3>ok profe ! </h3>
 
 
 
