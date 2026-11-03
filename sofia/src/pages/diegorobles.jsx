@@ -9,6 +9,7 @@ function VistaSimple() {
 
     <h3>era una vez en un dia muy caluroso</h3>
 
+    <h3>SUSPENSION PERMANENTE</h3>
 
 
     </div>
