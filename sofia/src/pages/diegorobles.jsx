@@ -6,6 +6,12 @@ function VistaSimple() {
     <div style={{ padding: '20px', fontFamily: 'sans-serif' }}>
       <h1>Hola, bienvenido a React</h1>
       <p>Esta es una vista sencilla basada en componentes.</p>
+
+    <h3>Ma contenido para mi pagina web</h3>
+
+
+
+
     </div>
   );
 }
