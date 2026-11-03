@@ -51,7 +51,7 @@ export default function MinimalProfile() {
         {/* Botón de acción minimalista */}
         <footer className="mt-8">
           <button className="w-full py-2.5 bg-[#1a1a1a] text-white text-xs font-medium rounded-lg hover:bg-neutral-800 transition-colors tracking-wide">
-            Conectar
+            Saludos
           </button>
         </footer>
 
